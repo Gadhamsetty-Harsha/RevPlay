@@ -85,6 +85,11 @@ Text-based simulation
 - 🪵 Log4J
 - 🌿 Git
 
+### ER Diagram
+
+![RevPlay ER Diagram](ERD/RevPlay_ERD.png)
+
+
 ## 🚀 Key Highlights
 - Modular and scalable architecture
 - Clean separation of concerns
